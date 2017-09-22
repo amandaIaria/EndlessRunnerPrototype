@@ -46,13 +46,16 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scripts\BackgroundGif.cs" />
-     <Compile Include="Assets\scripts\DestroyCollider.cs" />
-     <Compile Include="Assets\scripts\GameSpaceMovement.cs" />
-     <Compile Include="Assets\scripts\LevelManager.cs" />
-     <Compile Include="Assets\scripts\MusicPlayer.cs" />
-     <Compile Include="Assets\scripts\Player.cs" />
-     <Compile Include="Assets\scripts\TriggerForNextGameSpace.cs" />
+     <Compile Include="Assets\LoseCollider.cs" />
+     <Compile Include="Assets\Resources\scripts\BackgroundGif.cs" />
+     <Compile Include="Assets\Resources\scripts\CreateGameSpaceClass.cs" />
+     <Compile Include="Assets\Resources\scripts\DestroyCollider.cs" />
+     <Compile Include="Assets\Resources\scripts\DistanceTraveled.cs" />
+     <Compile Include="Assets\Resources\scripts\GameSpaceMovement.cs" />
+     <Compile Include="Assets\Resources\scripts\LevelManager.cs" />
+     <Compile Include="Assets\Resources\scripts\MusicPlayer.cs" />
+     <Compile Include="Assets\Resources\scripts\Player.cs" />
+     <Compile Include="Assets\Resources\scripts\TriggerForNextGameSpace.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.9/Standalone/UnityEngine.UI.dll</HintPath>
  </Reference>

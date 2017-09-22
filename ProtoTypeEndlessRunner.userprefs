@@ -1,14 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\DestroyCollider.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LoseCollider.cs">
     <Files>
-      <File FileName="Assets\scripts\GameSpaceMovement.cs" Line="6" Column="2" />
-      <File FileName="Assets\scripts\TriggerForNextGameSpace.cs" Line="44" Column="52" />
-      <File FileName="..\blockBreaker\Assets\scripts\Bricks.cs" Line="6" Column="36" />
-      <File FileName="Assets\scripts\DestroyCollider.cs" Line="7" Column="3" />
-      <File FileName="Assets\scripts\LevelManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\MusicPlayer.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\Player.cs" Line="28" Column="5" />
+      <File FileName="..\blockBreaker\Assets\scripts\Bricks.cs" Line="15" Column="43" />
+      <File FileName="Assets\Resources\scripts\DestroyCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\scripts\TriggerForNextGameSpace.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\scripts\BackgroundGif.cs" Line="10" Column="1" />
+      <File FileName="Assets\Resources\scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\scripts\CreateGameSpaceClass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\scripts\GameSpaceMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\LoseCollider.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
